@@ -131,7 +131,7 @@ return [
 
         'options' => [
             'cheating' => 'Lureri / Juks',
-            'multiple_accounts' => '',
+            'multiple_accounts' => 'Bruker flere kontoer',
             'insults' => 'Fornærmer meg / andre',
             'spam' => 'Spamming',
             'unwanted_content' => 'Deling av upassende innhold',
